@@ -1,0 +1,138 @@
+nav{
+    width:900px;
+    margin: 30px auto;
+
+}
+#logo{
+    float:left;
+
+}
+nav img{
+    float:right;
+    margin:1px;
+
+}
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+#rss{
+    margin-left:10px;
+  }
+#deli{
+    float:left;
+
+  }
+main{
+    width:900px;
+    margin:30px auto;
+}
+#print{
+    float:right;
+    
+    
+}
+#print h6{
+    display:inline;
+    
+}
+#mainPic{
+    margin:30px 0;
+
+}
+#title{
+    float:left;
+   
+}
+main p{
+    margin-bottom:35px;
+    text-indent:30px;
+}
+#recipe{
+    position:relative;
+    height:310px;
+}
+#recipe img{
+    position:absolute;
+}
+#recipe ul{
+    position:absolute;
+    font-family: 'Pangolin', cursive;
+    font-size:20px; 
+}
+.tiny{
+    background-image: url("img/hr-img.png");
+    background-repeat:repeat;
+    width:100%;
+    height:15px;
+    margin:30px auto;
+
+}
+li{
+    margin-bottom:12px;
+    margin-top:-3px;
+    width:350px;
+}
+#list1{
+    top:50px;
+    left:75px;
+}
+#list2{
+    top:50px;
+    left:425px;
+}
+#author{
+    float:left;
+}
+#authorpic{
+    float:left;
+}
+button{
+    float:right;
+    background-color: rgb(168, 82, 50);
+    color:white;
+    border-style:none;
+    height:50px;
+    width:170px;
+    font-size:15px;
+}
+footer{
+    width:900px;
+    margin:0 auto;
+}
+.line{
+    border-bottom:1px solid #999;
+    width:425px;
+    display:inline-block;
+}
+#small{
+    margin:0 5px;
+    display:inline;
+    vertical-align:middle;
+}
+footer p{
+    text-align:center;
+}
+#foot{
+    margin-top:25px;
+    margin-bottom:75px;
+    font-size:.8em;
+    color:#777;
+}
+#title h1{
+    font-size:50px;
+    font-family: 'Anton', sans-serif;
+}
+h2{
+    font-family: 'Yellowtail', cursive;
+    font-size:30px;
+}
+#tiny{
+    width:200px;
+}
+p{
+    font-family: 'IBM Plex Serif', serif;
+    line-height:1.6em;
+    font-size:1.05em;
+}
