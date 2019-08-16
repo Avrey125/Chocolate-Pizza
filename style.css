@@ -29,6 +29,7 @@ main{
     margin:30px auto;
 }
 #print{
+    margin-top: 40px;
     float:right;
     
     
@@ -87,6 +88,7 @@ li{
 }
 #authorpic{
     float:left;
+    margin-right: 30px;
 }
 button{
     float:right;
@@ -135,4 +137,15 @@ p{
     font-family: 'IBM Plex Serif', serif;
     line-height:1.6em;
     font-size:1.05em;
+}
+
+h3 {
+    font-size: 1.2em;
+    font-weight: 900;
+
+}
+h4{
+    font-family: 'IBM Plex Serif', serif;
+    font-size: .9em;
+    width: 600px;
 }
